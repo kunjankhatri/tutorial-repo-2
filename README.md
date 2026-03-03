@@ -1,2 +1,2 @@
 # Tutorial repo
- added something
+ removed something
